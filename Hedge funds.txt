@@ -3,7 +3,14 @@ Leverage + Pool of Investors
 Invests these funds in high-risk markets 
 2"20 - management fee + performance fee 
 Locked up 1 year minimum 
-One needs to be an accredited investor - basically high networth individuals (HNI) , banks , commercial firms , insurance companies, pension funds (institutional investors ) 
+One needs to be an accredited investor - basically high net-worth individuals (HNI) , banks, commercial firms, insurance companies, pension funds (institutional investors ) 
+
+Hedge funds in India
+In Securities and Exchange Board of India (SEBI's) words, “Hedge funds, including fund of funds, are unregistered private investment partnerships, funds or pools that may invest and trade in many different markets, strategies, and instruments (including securities, non-securities, and derivatives) and are not subject to the same regulatory requirements as mutual funds.”
+
+for more details refer here 
+https://groww.in/p/hedge-funds
+investopedia hedge funds
 
 
 Hedge funds vs mutual funds table 
