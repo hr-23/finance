@@ -1,3 +1,39 @@
 Hedge funds 
 
 Hedge funds vs mutual funds table 
+
+
+
+Hedge Funds
+Mutual funds
+
+Regulatory requirements
+No SEBI registration required or disclosure of NAVs
+Disclosure of NAVs at the end of the day is necessary
+SEBI registration is mandatory
+
+
+Investor category HNIs, banks, commercial firms,
+Any domestic investor
+
+
+Underlying securities
+Equities, money market instruments, currencies, real estate, derivatives, convertible securities
+Equities, money market instruments, cash
+
+Risk
+Very high
+Comparatively lower
+
+Minimum ticket size
+Rs 1 crore
+Not uniform but as low as Rs 500 in some funds
+
+Minimum corpus
+Rs 20 crore for a hedge fund
+Not defined
+
+
+Investment strategy
+Short selling permitted
+Mutual funds cannot do short selling
